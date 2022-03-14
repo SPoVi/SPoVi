@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sergio Pons Villanueva</h1>
 <h3 align="center">Graduate in __mechatronics engineering__ specialized in a __master's degree in control, automation and robotics__ with a strong interest in artificial intelligence, computer vision, robotics and biomedical systems.</h3>
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srgponsvillanueva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srgponsvillanueva/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srgponsvillanueva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srgponsvillanueva" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/spovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="spovi" height="30" width="40" /></a>
 </p>
 
@@ -27,5 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en" alt="spovi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&" alt="spovi" /></p>
+
 
 
