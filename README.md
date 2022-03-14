@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Pons Villanueva</h1>
-<h3 align="center">Graduate in __mechatronics engineering__ specialized in a __master's degree in control, automation and robotics__ with a strong interest in artificial intelligence, computer vision, robotics and biomedical systems.</h3>
+<h3 align="center">Graduate in mechatronics engineering specialized in a master's degree in control, automation and robotics with a strong interest in artificial intelligence, computer vision, robotics and biomedical systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" /> </p>
 
