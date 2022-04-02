@@ -3,7 +3,7 @@
 
 <!--- Github Trophy-->
 <h3 align="left">🏆 Github Trophies:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spovi&theme=dark_dimmed&margin-w=1&margin-h=1&column=7" alt="spovi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spovi&theme=dark_dimmed&margin-w=1&margin-h=1&column=8" alt="spovi" /></a> </p>
 
 - 🌱 I’m currently learning **ROS, Keras, Tensorflow, OpenCV, pyTorch, Aerial Robotics**
 
