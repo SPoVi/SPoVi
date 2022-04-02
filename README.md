@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Pons Villanueva</h1>
 <h3 align="center">Graduate in mechatronics engineering specialized in a master's degree in control, automation and robotics with a strong interest in artificial intelligence, computer vision, robotics and biomedical systems.</h3>
 
-![GitHub metrics](https://metrics.lecoq.io/SPoVi)  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" /> </p>
 
@@ -28,8 +28,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&" alt="spovi" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+![GitHub metrics](https://metrics.lecoq.io/SPoVi)  
 
 
 
