@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sergio Pons Villanueva</h1>
 <h3 align="center">Graduate in mechatronics engineering specialized in a master's degree in control, automation and robotics with a strong interest in artificial intelligence, computer vision, robotics and biomedical systems.</h3>
 
+![GitHub metrics](https://metrics.lecoq.io/SPoVi)  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spovi" alt="spovi" /></a> </p>
@@ -22,14 +24,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spovi&show_icons=true&locale=en&layout=compact" alt="spovi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=dracula" alt="spovi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=radical" alt="spovi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&" alt="spovi" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/SPoVi)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SPoVi)  
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 
