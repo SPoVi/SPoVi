@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sergio Pons Villanueva</h1>
 <h3 align="center">Graduate in mechatronics engineering specialized in a master's degree in control, automation and robotics with a strong interest in artificial intelligence, computer vision, robotics and biomedical systems.</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" /> </p>
-
 <!--- Github Trophy-->
+<h3 align="left">🏆 Github Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spovi&theme=dark_dimmed&margin-w=1&margin-h=1&column=7" alt="spovi" /></a> </p>
 
 - 🌱 I’m currently learning **ROS, Keras, Tensorflow, OpenCV, pyTorch, Aerial Robotics**
@@ -36,11 +33,14 @@
 <p><img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
 
  <!--- Github Metrics--->
-<p><img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /></p>
+<p><img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /> 
+<img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /> </p>
 
 <!--- Activity graph
 <p><img align="center" width="800" height="300" src="https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=github" alt="spovi" /></p>
 --->
+ <!--- Profile visits--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" /> </p>
 
 
 
