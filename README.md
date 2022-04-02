@@ -32,7 +32,7 @@
 <p><img align="left" width="400" height="200" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /></p>
 
 <!--- Streak stats--->
-<p><img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
+<p><img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
 
 <!--- Activity graph--->
 <p><img align="middle" width="800" height="300" src="https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=react-dark" alt="spovi" /></p>
