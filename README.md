@@ -35,7 +35,7 @@
  <img align="left" width="450" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" />
  <br clear="left"> 
  <!-- Github Metrics -->
- <img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" />
+ <img align="left" width="400" height="250" src="https://metrics.lecoq.io/SPoVi" alt="spovi" />
  <br clear="left">
  <!-- Profile visits -->
  <img align="left" src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" />
