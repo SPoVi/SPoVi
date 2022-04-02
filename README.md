@@ -26,7 +26,7 @@
 <p><img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=spovi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="spovi" /></p>
 
 <!--- Github Stats--->
-<p>&nbsp;<img align="center" width="300" height="300" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /></p>
+<p>&nbsp;<img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /></p>
 
 <!--- Streak stats--->
 <p><img align="center" width="300" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
