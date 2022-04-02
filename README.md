@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spovi&show_icons=true&locale=en&layout=compact" alt="spovi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=radical" alt="spovi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&" alt="spovi" /></p>
 
