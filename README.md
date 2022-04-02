@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=githu_dark" alt="spovi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github_dark" alt="spovi" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
