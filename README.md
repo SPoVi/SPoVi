@@ -32,7 +32,7 @@
  <!-- Github Stats -->
  <img align="left" width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /><br>
  <!-- Streak stats -->
- <img align="left" width="450" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" />
+ <img align="left" width="450" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" />
  <br clear="left"> 
  <!-- Github Metrics -->
  <img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" />
