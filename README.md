@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" /> </p>
 
 <!--- Github Trophy-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spovi&theme=dark_dimmed" alt="spovi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spovi&theme=dark_dimmed&margin-w=15" alt="spovi" /></a> </p>
 
 - 🌱 I’m currently learning **ROS, Keras, Tensorflow, OpenCV, pyTorch, Aerial Robotics**
 
