@@ -32,6 +32,21 @@
 <!--- Streak stats--->
 <p><img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
 
+
+
+<!--- Most used languages   Github Stats  Streak stats --->
+<p>
+ <img align="left" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=spovi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="spovi" />
+ <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" />
+ <img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" />
+
+</p>
+
+
+
+
+
+
  <!--- Github Metrics--->
 <p><img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /><br>
 <img align="left" width="200" height="150" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /> <br> </p>
