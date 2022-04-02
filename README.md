@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github_dark_blue" alt="spovi" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spovi&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)]
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
