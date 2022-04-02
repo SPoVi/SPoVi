@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github_dark_blue" alt="spovi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spovi&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)]
 
