@@ -28,7 +28,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/SPoVi)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SPoVi)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SPoVi)  
 
  
 
