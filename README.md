@@ -34,7 +34,7 @@
 
  <!--- Github Metrics--->
 <p><img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /><br>
-<img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /> <br> </p>
+<img align="left" width="200" height="150" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /> <br> </p>
 
 <!--- Activity graph
 <p><img align="center" width="800" height="300" src="https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=github" alt="spovi" /></p>
