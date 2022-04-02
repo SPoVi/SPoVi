@@ -39,7 +39,7 @@
  <img align="left" width="250" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=spovi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="spovi" />
  <img align="left" width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /><br>
  <br clear="left"> 
- <img align="left" width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" />
+ <img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" />
 </p>
 
 
