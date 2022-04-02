@@ -28,15 +28,17 @@
 <!--- Github Stats--->
 <p>&nbsp;<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /></p>
 
+ <!--- Github Metrics--->
+<p><img align="left" width="400" height="200" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /></p>
+
 <!--- Streak stats--->
-<p><img align="right" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
+<p><img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /></p>
 
 <!--- Activity graph--->
-<p><img align="center" width="800" height="300" src="https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=react-dark" alt="spovi" /></p>
+<p><img align="middle" width="800" height="300" src="https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=react-dark" alt="spovi" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SPoVi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-![GitHub metrics](https://metrics.lecoq.io/SPoVi)  
+
+
 
 
 
