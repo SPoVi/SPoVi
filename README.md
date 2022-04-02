@@ -36,7 +36,8 @@
 
 <!--- Most used languages   Github Stats  Streak stats --->
 <p>
- <img align="left" width="250" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=spovi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="spovi" /><br>
+ <img align="left" width="250" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=spovi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="spovi" />
+ <br clear="right"> 
  <img align="left" width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=spovi&show_icons=true&locale=en&theme=github_dark" alt="spovi" /><br>
  <img align="left" width="350" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" />
 </p>
@@ -45,7 +46,8 @@
 
  <!--- Github Metrics  Profile visits--->
 <p>
- <img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" /><br><br> 
+ <img align="left" width="400" height="300" src="https://metrics.lecoq.io/SPoVi" alt="spovi" />
+ <br clear="right"> 
  <img align="left" src="https://komarev.com/ghpvc/?username=spovi&label=Profile%20views&color=0e75b6&style=flat" alt="spovi" />
 </p>
 
