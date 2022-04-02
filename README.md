@@ -30,7 +30,7 @@
 
 
 <!--- Streak stats--->
-<p><img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /> </p><br>
+<p><img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=spovi&theme=github-dark-blue" alt="spovi" /><br> </p>
 
 
 
